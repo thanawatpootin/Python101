@@ -31,7 +31,7 @@ amountLabel.grid(row=1, column=3)
 amount = Entry(GUI, width=30)
 amount.grid(row=2, column=3)
 
-###################### CSV#################################
+###################### CSV################################
 
 
 def writecsv(datalist):
